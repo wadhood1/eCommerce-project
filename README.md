@@ -1,7 +1,7 @@
 # E-Commerce Data Analysis (Python)
 
 **Tools**: Python, Pandas, Matplotlib, Seaborn  
-**Goal**: Analyze sales, customer behavior, and product trends using real e-commerce data.
+**Goal**: Analyze sales, customer behavior, and product trends using e-commerce data.
 
 ## Key Insights
 - Monthly new vs. returning customers
